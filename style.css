@@ -1,0 +1,52 @@
+/* Custom CSS for Index Page*/
+body{
+    background-color: rgb(136, 205, 226);
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 3rem;
+    
+}
+
+.container img {
+    max-width: 100%;
+    height:fit-content;
+    border-radius: 200%;
+    margin-bottom: 4rem;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.10.9);
+}
+.container h1 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.container p {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.navbar {
+    background-color: #1c1c1d;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-brand:hover, .navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+
